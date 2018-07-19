@@ -17,9 +17,9 @@ function logwhisper(string) {
 logwhisper("HELLO")
 
 function sayHiToGrandma(string) {
-  return
+  return string.
 }
 
-function sayILoveYouGrandma(string) {
-  
+function sayHiToGrandma(string) {
+  return string.
 }
