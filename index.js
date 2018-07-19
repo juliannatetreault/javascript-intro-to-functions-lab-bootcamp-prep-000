@@ -16,4 +16,4 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 
-if (string === toLowerCase)
+if (string === toLowerCase) 
