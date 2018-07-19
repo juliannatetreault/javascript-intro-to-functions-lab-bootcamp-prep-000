@@ -16,4 +16,4 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 
-if 
+if ()
