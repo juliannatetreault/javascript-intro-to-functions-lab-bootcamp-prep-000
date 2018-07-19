@@ -9,12 +9,12 @@ function  whisper(string) {
 function logshout(string) {
   console.log ('hello'.toUpperCase())
 }
-logshout('hello')
+logshout('HELLO')
 
 function logwhisper(string) {
   console.log ('HELLO'.toLowerCase())
 }
-logwhisper('HELLO')
+logwhisper('hello')
 
 function sayHiToGrandma(string) {
   return string.toUpperCase()
