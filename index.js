@@ -7,11 +7,11 @@ function  whisper(string) {
 }
 
 function logshout(string) {
-  console.log (string.toUpperCase("hello"))
+  console.log ('hello'.toUpperCase())
 }
 
 function logwhisper(string) {
-  console.log (string.toLowerCase("HELLO"))
+  console.log ('HELLO'.toLowerCase())
 }
 
 function sayHiToGrandma(string) {
