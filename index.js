@@ -16,6 +16,3 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 
-var lowercase = 'hello'
-
-lowercase.toLowerCase() === lowercase
