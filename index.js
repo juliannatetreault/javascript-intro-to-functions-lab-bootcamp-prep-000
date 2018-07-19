@@ -18,6 +18,6 @@ logWhisper('HELLO')
 
 var lowercase = function(sayHiToGrandma) {
   if (sayHiToGrandma === lowercase) {
-    return 
-  }
+    return 'I can\'t hear you'
+  } 
 }
