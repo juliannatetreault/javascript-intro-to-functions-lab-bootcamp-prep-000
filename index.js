@@ -16,4 +16,6 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 
-function sayHiToGrandma(string)
+function sayHiToGrandma(string) {
+  if 
+}
