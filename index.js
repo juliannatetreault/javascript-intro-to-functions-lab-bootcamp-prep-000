@@ -16,9 +16,9 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 
-if (string === .toLowerCase) {
+if (string === toLowerCase) {
   return('I can\'t hear you!')
-} else (string === .toUpperCase) {
+} else (string === toUpperCase) {
   return('YES INDEED!')
 } else if (string === 'I love you, Grandma.') {
   return('I love you, too.')
